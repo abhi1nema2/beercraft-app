@@ -81,7 +81,7 @@ export default function DataTable({ dataBySearchText }) {
               <TableCell></TableCell>
               <TableCell align="left">Name</TableCell>
               <TableCell align="left">ABV</TableCell>
-              <TableCell align="left">Ounces</TableCell>
+              <TableCell align="left">IBU</TableCell>
               <TableCell align="left">Style</TableCell>
             </TableRow>
           </TableHead>
